@@ -1,0 +1,14 @@
+{
+  "games": {
+    "000001": {
+      "name": "Half-life",
+      "year": "1998",
+	  "link": ""
+    },
+    "000002": {
+      "name": "They Hunger",
+      "year": "1999",
+	  "link": ""
+    }
+  }
+}
