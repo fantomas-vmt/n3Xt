@@ -3,21 +3,25 @@
     "000001": {
       "name": "Half-life",
       "year": "1998",
+	  "gdir": "valve",
 	  "link": ""
     },
     "000002": {
       "name": "They Hunger",
       "year": "1999",
+	  "gdir": "Hunger",
 	  "link": ""
     },
     "000003": {
       "name": "Paranoia",
       "year": "2007",
+	  "gdir": "paranoia",
 	  "link": ""
     },
     "000004": {
       "name": "HL:Rally",
       "year": "2004",
+	  "gdir": "hlrally",
 	  "link": ""
     }
   }
